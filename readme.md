@@ -2,6 +2,8 @@
 
 このアプリは、入力した都市名に基づいてOpenWeatherMap APIから天気情報を取得し、温度や天気説明を表示するWebアプリです。
 
+![index](https://github.com/yut0takagi/weather_app/blob/main/img/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-06-23%201.50.00.png)
+
 ---
 
 ## ✨ 使用技術
